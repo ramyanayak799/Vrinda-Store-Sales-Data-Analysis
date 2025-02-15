@@ -32,3 +32,4 @@ Refund & Cancellation Analysis – Improve customer satisfaction by reducing ret
 🛠️ Tools Used
 Microsoft Excel (Pivot Tables, Charts, Slicers, Interactive Dashboard)
 Data Cleaning & Visualization Techniques.
+![Image](https://github.com/user-attachments/assets/979ceabb-e1b4-4413-8e93-39ad1c7c893d)
